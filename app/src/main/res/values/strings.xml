@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="choose">CHOOSE</string>
+    <string name="set">SET</string>
+    <string name="discard">DISCARD</string>
+    <string name="record">RECORD</string>
+    <string name="save">SAVE</string>
+</resources>
